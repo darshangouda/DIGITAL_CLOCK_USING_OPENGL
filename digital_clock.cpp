@@ -1,8 +1,8 @@
 #include<stdlib.h>
-#include<stdio.h>
+//#include<stdio.h>
 #include<gl\glut.h>
 #include<time.h>
-#include<iostream> 
+//#include<iostream> 
 #pragma warning(disable : 4996)
 #define WT 1366
 #define HT 705
